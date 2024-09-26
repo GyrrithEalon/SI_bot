@@ -1,0 +1,187 @@
+[
+    {
+        "set": "Spirit_Island",
+        "name": "Lightning's Swift Strike",
+        "complex": "LOW"
+    },
+    {
+        "set": "Spirit_Island",
+        "name": "River Surges in Sunlight",
+        "complex": "LOW"
+    },
+    {
+        "set": "Spirit_Island",
+        "name": "Shadows Flicker Like Flame",
+        "complex": "LOW"
+    },
+    {
+        "set": "Spirit_Island",
+        "name": "Vital Strength of the Earth",
+        "complex": "LOW"
+    },
+    {
+        "set": "Spirit_Island",
+        "name": "A Spread of Rampant Green",
+        "complex": "MODERATE"
+    },
+    {
+        "set": "Spirit_Island",
+        "name": "Thunderspeaker",
+        "complex": "MODERATE"
+    },
+    {
+        "set": "Spirit_Island",
+        "name": "Bringer of Dreams and Nightmares",
+        "complex": "HIGH"
+    },
+    {
+        "set": "Spirit_Island",
+        "name": "Ocean's Hungry Grasp",
+        "complex": "HIGH"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "name": "Keeper of the Forbidden Wilds",
+        "complex": "MODERATE"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "name": "Sharp Fangs Behind the Leaves",
+        "complex": "MODERATE"
+    },
+    {
+        "set": "Promo_Pack_1",
+        "name": "Heart of the Wildfire",
+        "complex": "HIGH"
+    },
+    {
+        "set": "Promo_Pack_1",
+        "name": "Serpent Slumbering Beneath the Island",
+        "complex": "HIGH"
+    },
+    {
+        "set": "Jagged_Earth",
+        "name": "Grinning Trickster Stirs Up Trouble",
+        "complex": "MODERATE"
+    },
+    {
+        "set": "Jagged_Earth",
+        "name": "Lure of the Deep Wilderness",
+        "complex": "MODERATE"
+    },
+    {
+        "set": "Jagged_Earth",
+        "name": "Many Minds Move as One",
+        "complex": "MODERATE"
+    },
+    {
+        "set": "Jagged_Earth",
+        "name": "Shifting Memory of Ages",
+        "complex": "MODERATE"
+    },
+    {
+        "set": "Jagged_Earth",
+        "name": "Stone's Unyielding Defiance",
+        "complex": "MODERATE"
+    },
+    {
+        "set": "Jagged_Earth",
+        "name": "Volcano Looming High",
+        "complex": "MODERATE"
+    },
+    {
+        "set": "Jagged_Earth",
+        "name": "Shroud of Silent Mist",
+        "complex": "HIGH"
+    },
+    {
+        "set": "Jagged_Earth",
+        "name": "Vengeance as a Burning Plague",
+        "complex": "HIGH"
+    },
+    {
+        "set": "Jagged_Earth",
+        "name": "Fractured Days Split the Sky",
+        "complex": "VERY HIGH"
+    },
+    {
+        "set": "Jagged_Earth",
+        "name": "Starlight Seeks Its Form",
+        "complex": "VERY HIGH"
+    },
+    {
+        "set": "Promo_Pack_2",
+        "name": "Downpour Drenches the World",
+        "complex": "HIGH"
+    },
+    {
+        "set": "Promo_Pack_2",
+        "name": "Finder of Paths Unseen",
+        "complex": "VERY HIGH"
+    },
+    {
+        "set": "Horizons_of_Spirit_Island",
+        "name": "Devouring Teeth Lurk Underfoot",
+        "complex": "LOW"
+    },
+    {
+        "set": "Horizons_of_Spirit_Island",
+        "name": "Eyes Watch from the Trees",
+        "complex": "LOW"
+    },
+    {
+        "set": "Horizons_of_Spirit_Island",
+        "name": "Fathomless Mud of the Swamp",
+        "complex": "LOW"
+    },
+    {
+        "set": "Horizons_of_Spirit_Island",
+        "name": "Rising Heat of Stone and Sand",
+        "complex": "LOW"
+    },
+    {
+        "set": "Horizons_of_Spirit_Island",
+        "name": "Sun-Bright Whirlwind",
+        "complex": "LOW"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "name": "Ember-Eyed Behemoth",
+        "complex": "MODERATE"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "name": "Hearth-Vigil",
+        "complex": "MODERATE"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "name": "Towering Roots of the Jungle",
+        "complex": "MODERATE"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "name": "Breath of Darkness Down Your Spine",
+        "complex": "HIGH"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "name": "Relentless Gaze of the Sun",
+        "complex": "HIGH"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "name": "Wandering Voice Keens Delirium",
+        "complex": "HIGH"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "name": "Wounded Waters Bleeding",
+        "complex": "HIGH"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "name": "Dances Up Earthquakes",
+        "complex": "VERY HIGH"
+    }
+]

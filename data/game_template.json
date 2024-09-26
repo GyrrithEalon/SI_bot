@@ -1,0 +1,12 @@
+{
+    "game_id": "",
+    "players": [],
+    "host": "",
+    "sets": [],
+    "island_board": "",
+    "invader_board": "",
+    "turn_number": 0,
+    "current_card": [],
+    "card_bk": []
+
+}

@@ -1,0 +1,17 @@
+{
+    "game_id": "",
+    "discord_id": "",
+    "name": "Bobby",
+    "spirit": "Spirit 1",
+    "cards": [],
+    "cards_bk": [],
+    "pending_card_choice": [],
+    "pending_card_choice_bk": [],
+    "spirit_board": "",
+    "ready": false,
+    "response_index": 0,
+    "response_tape": [],
+    "response_log": [],
+    "decision": ""
+    
+}

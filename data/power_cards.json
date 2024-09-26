@@ -1,0 +1,2006 @@
+[
+    {
+        "set": "Box Art",
+        "type": "Card Type",
+        "name": "Card Name",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Minor",
+        "name": "Call of the Dahan Ways",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Minor",
+        "name": "Call to Bloodshed",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Minor",
+        "name": "Call to Isolation",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Minor",
+        "name": "Call to Migrate",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Minor",
+        "name": "Call to Tend",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Minor",
+        "name": "Dark and Tangled Woods",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Minor",
+        "name": "Delusions of Danger",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Minor",
+        "name": "Devouring Ants",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Minor",
+        "name": "Drift Down into Slumber",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Minor",
+        "name": "Drought",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Minor",
+        "name": "Elemental Boon",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Minor",
+        "name": "Encompassing Ward",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Minor",
+        "name": "Enticing Splendor",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Minor",
+        "name": "Entrancing Apparitions",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Minor",
+        "name": "Gift of Constancy",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Minor",
+        "name": "Gift of Living Energy",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Minor",
+        "name": "Gift of Power",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Minor",
+        "name": "Gnawing Rootbiters",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Minor",
+        "name": "Land of Haunts and Embers",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Minor",
+        "name": "Lure of the Unknown",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Minor",
+        "name": "Nature's Resilience",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Minor",
+        "name": "Pull Beneath the Hungry Earth",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Minor",
+        "name": "Purifying Flame",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Minor",
+        "name": "Quicken the Earth's Struggles",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Minor",
+        "name": "Rain of Blood",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Minor",
+        "name": "Reaching Grasp",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Minor",
+        "name": "Rouse the Trees and Stones",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Minor",
+        "name": "Sap the Strength of Multitudes",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Minor",
+        "name": "Savage Mawbeasts",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Minor",
+        "name": "Shadows of the Burning Forest",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Minor",
+        "name": "Song of Sanctity",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Minor",
+        "name": "Steam Vents",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Minor",
+        "name": "Uncanny Melting",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Minor",
+        "name": "Veil the Night's Hunt",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Minor",
+        "name": "Visions of Fiery Doom",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Minor",
+        "name": "Voracious Growth",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Major",
+        "name": "Accelerated Rot",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Major",
+        "name": "Blazing Renewal",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Major",
+        "name": "Cleansing Floods",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Major",
+        "name": "Dissolve the Bonds of Kinship",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Major",
+        "name": "Entwined Power",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Major",
+        "name": "Indomitable Claim",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Major",
+        "name": "Infinite Vitality",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Major",
+        "name": "Mists of Oblivion",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Major",
+        "name": "Paralyzing Fright",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Major",
+        "name": "Pillar of Living Flame",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Major",
+        "name": "Poisoned Land",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Major",
+        "name": "Powerstorm",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Major",
+        "name": "Talons of Lightning",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Major",
+        "name": "Terrifying Nightmares",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Major",
+        "name": "The Jungle Hungers",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Major",
+        "name": "The Land Thrashes in Furious Pain",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Major",
+        "name": "The Trees and Stones Speak of War",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Major",
+        "name": "Tsunami",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Major",
+        "name": "Vengeance of the Dead",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Major",
+        "name": "Vigor of the Breaking Dawn",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Major",
+        "name": "Winds of Rust and Atrophy",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Major",
+        "name": "Wrap in Wings of Sunlight",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "A_Spread_of_Rampant_Green",
+        "name": "Fields Choked with Growth",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "A_Spread_of_Rampant_Green",
+        "name": "Gift of Proliferation",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "A_Spread_of_Rampant_Green",
+        "name": "Overgrow in a Night",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "A_Spread_of_Rampant_Green",
+        "name": "Stem the Flow of Fresh Water",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Bringer_of_Dreams_and_Nightmares",
+        "name": "Call on Midnight's Dream",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Bringer_of_Dreams_and_Nightmares",
+        "name": "Dread Apparitions",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Bringer_of_Dreams_and_Nightmares",
+        "name": "Dreams of the Dahan",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Bringer_of_Dreams_and_Nightmares",
+        "name": "Predatory Nightmares",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Lightning's_Swift_Strike",
+        "name": "Harbingers of the Lightning",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Lightning's_Swift_Strike",
+        "name": "Lightning's Boon",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Lightning's_Swift_Strike",
+        "name": "Raging Storm",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Lightning's_Swift_Strike",
+        "name": "Shatter Homesteads",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Ocean's_Hungry_Grasp",
+        "name": "Call of the Deeps",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Ocean's_Hungry_Grasp",
+        "name": "Grasping Tide",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Ocean's_Hungry_Grasp",
+        "name": "Swallow the Land-Dwellers",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Ocean's_Hungry_Grasp",
+        "name": "Tidal Boon",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "River_Surges_in_Sunlight",
+        "name": "Boon of Vigor",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "River_Surges_in_Sunlight",
+        "name": "Flash Floods",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "River_Surges_in_Sunlight",
+        "name": "River's Bounty",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "River_Surges_in_Sunlight",
+        "name": "Wash Away",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Shadows_Flicker_Like_Flame",
+        "name": "Concealing Shadows",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Shadows_Flicker_Like_Flame",
+        "name": "Crops Wither and Fade",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Shadows_Flicker_Like_Flame",
+        "name": "Favors Called Due",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Shadows_Flicker_Like_Flame",
+        "name": "Mantle of Dread",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Thunderspeaker",
+        "name": "Manifestation of Power and Glory",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Thunderspeaker",
+        "name": "Sudden Ambush",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Thunderspeaker",
+        "name": "Voice of Thunder",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Thunderspeaker",
+        "name": "Words of Warning",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Vital_Strength_of_the_Earth",
+        "name": "A Year of Perfect Stillness",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Vital_Strength_of_the_Earth",
+        "name": "Draw of the Fruitful Earth",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Vital_Strength_of_the_Earth",
+        "name": "Guard the Healing Land",
+        "status": "InDeck"
+    },
+    {
+        "set": "Spirit_Island",
+        "type": "Vital_Strength_of_the_Earth",
+        "name": "Rituals of Destruction",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Minor",
+        "name": "Absorb Corruption",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Minor",
+        "name": "Animated Wrackroot",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Minor",
+        "name": "Call to Ferocity",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Minor",
+        "name": "Call to Trade",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Minor",
+        "name": "Confounding Mists",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Minor",
+        "name": "Cycles of Time and Tide",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Minor",
+        "name": "Disorienting Landscape",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Minor",
+        "name": "Elusive Ambushes",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Minor",
+        "name": "Fire in the Sky",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Minor",
+        "name": "Fleshrot Fever",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Minor",
+        "name": "Gold's Allure",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Minor",
+        "name": "Guardian Serpents",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Minor",
+        "name": "Here There Be Monsters",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Minor",
+        "name": "Infested Aquifers",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Minor",
+        "name": "Inflame the Fires of Life",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Minor",
+        "name": "Pact of the Joined Hunt",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Minor",
+        "name": "Poisoned Dew",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Minor",
+        "name": "Portents of Disaster",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Minor",
+        "name": "Promises of Protection",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Minor",
+        "name": "Prowling Panthers",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Minor",
+        "name": "Razor-Sharp Undergrowth",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Minor",
+        "name": "Renewing Rain",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Minor",
+        "name": "Rites of the Land's Rejection",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Minor",
+        "name": "Scour the Land",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Minor",
+        "name": "Sky Stretches to Shore",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Minor",
+        "name": "Spur on with Words of Fire",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Minor",
+        "name": "Swarming Wasps",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Minor",
+        "name": "Teeming Rivers",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Minor",
+        "name": "Tormenting Rotflies",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Minor",
+        "name": "Twilight Fog Brings Madness",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Major",
+        "name": "Bloodwrack Plague",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Major",
+        "name": "Cast Down Into the Briny Deep",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Major",
+        "name": "Death Falls Gently from Open Blossoms",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Major",
+        "name": "Fire and Flood",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Major",
+        "name": "Flow like Water, Reach like Air",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Major",
+        "name": "Grant Hatred a Ravenous Form",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Major",
+        "name": "Insatiable Hunger of the Swarm",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Major",
+        "name": "Instruments of Their Own Ruin",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Major",
+        "name": "Manifest Incarnation",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Major",
+        "name": "Pent-Up Calamity",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Major",
+        "name": "Pyroclastic Flow",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Major",
+        "name": "Savage Transformation",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Major",
+        "name": "Sea Monsters",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Major",
+        "name": "Smothering Infestation",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Major",
+        "name": "Strangling Firevine",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Major",
+        "name": "Sweep into the Sea",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Major",
+        "name": "Tigers Hunting",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Major",
+        "name": "Twisted Flowers Murmur Ultimatums",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Major",
+        "name": "Unlock the Gates of Deepest Power",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Major",
+        "name": "Unrelenting Growth",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Major",
+        "name": "Volcanic Eruption",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Keeper_of_the_Forbidden_Wilds",
+        "name": "Boon of Growing Power",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Keeper_of_the_Forbidden_Wilds",
+        "name": "Regrow from Roots",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Keeper_of_the_Forbidden_Wilds",
+        "name": "Sacrosanct Wilderness",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Keeper_of_the_Forbidden_Wilds",
+        "name": "Towering Wrath",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Sharp_Fangs_Behind_the_Leaves",
+        "name": "Prey on the Builders",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Sharp_Fangs_Behind_the_Leaves",
+        "name": "Teeth Gleam from Darkness",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Sharp_Fangs_Behind_the_Leaves",
+        "name": "Terrifying Chase",
+        "status": "InDeck"
+    },
+    {
+        "set": "Branch_and_Claw",
+        "type": "Sharp_Fangs_Behind_the_Leaves",
+        "name": "Too Near the Jungle",
+        "status": "InDeck"
+    },
+    {
+        "set": "Promo_Pack_1",
+        "type": "Heart_of_the_Wildfire",
+        "name": "Asphyxiating Smoke",
+        "status": "InDeck"
+    },
+    {
+        "set": "Promo_Pack_1",
+        "type": "Heart_of_the_Wildfire",
+        "name": "Flame's Fury",
+        "status": "InDeck"
+    },
+    {
+        "set": "Promo_Pack_1",
+        "type": "Heart_of_the_Wildfire",
+        "name": "Flash-Fires",
+        "status": "InDeck"
+    },
+    {
+        "set": "Promo_Pack_1",
+        "type": "Heart_of_the_Wildfire",
+        "name": "Threatening Flames",
+        "status": "InDeck"
+    },
+    {
+        "set": "Promo_Pack_1",
+        "type": "Serpent_Slumbering_Beneath_the_Island",
+        "name": "Absorb Essence",
+        "status": "InDeck"
+    },
+    {
+        "set": "Promo_Pack_1",
+        "type": "Serpent_Slumbering_Beneath_the_Island",
+        "name": "Elemental Aegis",
+        "status": "InDeck"
+    },
+    {
+        "set": "Promo_Pack_1",
+        "type": "Serpent_Slumbering_Beneath_the_Island",
+        "name": "Gift of Flowing Power",
+        "status": "InDeck"
+    },
+    {
+        "set": "Promo_Pack_1",
+        "type": "Serpent_Slumbering_Beneath_the_Island",
+        "name": "Gift of the Primordial Deeps",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Minor",
+        "name": "Bats Scout for Raids by Darkness",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Minor",
+        "name": "Birds Cry Warning",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Minor",
+        "name": "Blood Draws Predators",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Minor",
+        "name": "Call to Guard",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Minor",
+        "name": "Carapaced Land",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Minor",
+        "name": "Desiccating Winds",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Minor",
+        "name": "Dire Metamorphosis",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Minor",
+        "name": "Domesticated Animals Go Berserk",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Minor",
+        "name": "Dry Wood Explodes in Smoldering Splinters",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Minor",
+        "name": "Entrap the Forces of Corruption",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Minor",
+        "name": "Favor of the Sun and Star-lit Dark",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Minor",
+        "name": "Flow Downriver, Blow Downwind",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Minor",
+        "name": "Gift of Nature's Connection",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Minor",
+        "name": "Gift of Twinned Days",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Minor",
+        "name": "Haunted by Primal Memories",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Minor",
+        "name": "Hazards Spread Across the Island",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Minor",
+        "name": "Like Calls to Like",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Minor",
+        "name": "Mesmerized Tranquility",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Minor",
+        "name": "Renewing Boon",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Minor",
+        "name": "Scream Disease Into the Wind",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Minor",
+        "name": "Sear Anger Into the Wild Lands",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Minor",
+        "name": "Set Them on an Ever-Twisting Trail",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Minor",
+        "name": "Skies Herald the Season of Return",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Minor",
+        "name": "Strong and Constant Currents",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Minor",
+        "name": "Sucking Ooze",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Minor",
+        "name": "Sunset's Fire Flows Across the Land",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Minor",
+        "name": "Territorial Strife",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Minor",
+        "name": "Terror Turns to Madness",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Minor",
+        "name": "The Shore Seethes with Hatred",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Minor",
+        "name": "Thriving Chokefungus",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Minor",
+        "name": "Treacherous Waterways",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Minor",
+        "name": "Unquenchable Flames",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Minor",
+        "name": "Weep for What is Lost",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Major",
+        "name": "Angry Bears",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Major",
+        "name": "Bargains of Power and Protection",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Major",
+        "name": "Draw Towards a Consuming Void",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Major",
+        "name": "Dream of the Untouched Land",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Major",
+        "name": "Focus the Land's Anguish",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Major",
+        "name": "Forests of Living Obsidian",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Major",
+        "name": "Infestation of Venomous Spiders",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Major",
+        "name": "Irresistible Call",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Major",
+        "name": "Melt Earth Into Quicksand",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Major",
+        "name": "Settle Into Hunting-Grounds",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Major",
+        "name": "Sleep and Never Waken",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Major",
+        "name": "Spill Bitterness Into the Earth",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Major",
+        "name": "Storm-Swath",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Major",
+        "name": "The Wounded Wild Turns on its Assailants",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Major",
+        "name": "Thickets Erupt with Every Touch of Breeze",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Major",
+        "name": "Transform to a Murderous Darkness",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Major",
+        "name": "Trees Radiate Celestial Brilliance",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Major",
+        "name": "Unleash a Torrent of the Self's Own Essence",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Major",
+        "name": "Utter a Curse of Dread and Bone",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Major",
+        "name": "Vanish Softly Away, Forgotten by All",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Major",
+        "name": "Voice of Command",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Major",
+        "name": "Walls of Rock and Thorn",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Major",
+        "name": "Weave Together the Fabric of Place",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Fractured_Days_Split_the_Sky",
+        "name": "Absolute Stasis",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Fractured_Days_Split_the_Sky",
+        "name": "Blur the Arc of Years",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Fractured_Days_Split_the_Sky",
+        "name": "Pour Time Sideways",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Fractured_Days_Split_the_Sky",
+        "name": "The Past Returns Again",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Grinning_Trickster_Stirs_Up_Trouble",
+        "name": "Impersonate Authority",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Grinning_Trickster_Stirs_Up_Trouble",
+        "name": "Incite the Mob",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Grinning_Trickster_Stirs_Up_Trouble",
+        "name": "Overenthusiastic Arson",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Grinning_Trickster_Stirs_Up_Trouble",
+        "name": "Unexpected Tigers",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Lure_of_the_Deep_Wilderness",
+        "name": "Gift of the Untamed Wild",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Lure_of_the_Deep_Wilderness",
+        "name": "Perils of the Deepest Island",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Lure_of_the_Deep_Wilderness",
+        "name": "Softly Beckon Ever Inward",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Lure_of_the_Deep_Wilderness",
+        "name": "Swallowed by the Wilderness",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Many_Minds_Move_as_One",
+        "name": "A Dreadful Tide of Scurrying Flesh",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Many_Minds_Move_as_One",
+        "name": "Boon of Swarming Bedevilment",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Many_Minds_Move_as_One",
+        "name": "Ever-Multiplying Swarm",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Many_Minds_Move_as_One",
+        "name": "Guide the Way on Feathered Wings",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Many_Minds_Move_as_One",
+        "name": "Pursue with Scratches, Pecks, and Stings",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Shifting_Memory_of_Ages",
+        "name": "Boon of Ancient Memories",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Shifting_Memory_of_Ages",
+        "name": "Elemental Teachings",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Shifting_Memory_of_Ages",
+        "name": "Share Secrets of Survival",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Shifting_Memory_of_Ages",
+        "name": "Study the Invaders' Fears",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Shroud_of_Silent_Mist",
+        "name": "Dissolving Vapors",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Shroud_of_Silent_Mist",
+        "name": "Flowing and Silent Forms Dart By",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Shroud_of_Silent_Mist",
+        "name": "The Fog Closes In",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Shroud_of_Silent_Mist",
+        "name": "Unnerving Pall",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Starlight_Seeks_Its_Form",
+        "name": "Boon of Reimagining",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Starlight_Seeks_Its_Form",
+        "name": "Gather the Scattered Light of Stars",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Starlight_Seeks_Its_Form",
+        "name": "Peace of the Nighttime Sky",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Starlight_Seeks_Its_Form",
+        "name": "Shape the Self Anew",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Stone's_Unyielding_Defiance",
+        "name": "Jagged Shards Push from the Earth",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Stone's_Unyielding_Defiance",
+        "name": "Plows Shatter on Rocky Ground",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Stone's_Unyielding_Defiance",
+        "name": "Scarred and Stony Land",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Stone's_Unyielding_Defiance",
+        "name": "Stubborn Solidity",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Vengeance_as_a_Burning_Plague",
+        "name": "Fetid Breath Spreads Infection",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Vengeance_as_a_Burning_Plague",
+        "name": "Fiery Vengeance",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Vengeance_as_a_Burning_Plague",
+        "name": "Plaguebearers",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Vengeance_as_a_Burning_Plague",
+        "name": "Strike Low with Sudden Fevers",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Volcano_Looming_High",
+        "name": "Exaltation of Molten Stone",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Volcano_Looming_High",
+        "name": "Lava Flows",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Volcano_Looming_High",
+        "name": "Pyroclastic Bombardment",
+        "status": "InDeck"
+    },
+    {
+        "set": "Jagged_Earth",
+        "type": "Volcano_Looming_High",
+        "name": "Rain of Ash",
+        "status": "InDeck"
+    },
+    {
+        "set": "Promo_Pack_2",
+        "type": "Downpour_Drenches_the_World",
+        "name": "Dark Skies Loose a Stinging Rain",
+        "status": "InDeck"
+    },
+    {
+        "set": "Promo_Pack_2",
+        "type": "Downpour_Drenches_the_World",
+        "name": "Foundations Sink into Mud",
+        "status": "InDeck"
+    },
+    {
+        "set": "Promo_Pack_2",
+        "type": "Downpour_Drenches_the_World",
+        "name": "Gift of Abundance",
+        "status": "InDeck"
+    },
+    {
+        "set": "Promo_Pack_2",
+        "type": "Downpour_Drenches_the_World",
+        "name": "Unbearable Deluge",
+        "status": "InDeck"
+    },
+    {
+        "set": "Promo_Pack_2",
+        "type": "Finder_of_Paths_Unseen",
+        "name": "A Circuitous and Wending Journey",
+        "status": "InDeck"
+    },
+    {
+        "set": "Promo_Pack_2",
+        "type": "Finder_of_Paths_Unseen",
+        "name": "Aid from the Spirit-Speakers",
+        "status": "InDeck"
+    },
+    {
+        "set": "Promo_Pack_2",
+        "type": "Finder_of_Paths_Unseen",
+        "name": "Offer Passage Between Worlds",
+        "status": "InDeck"
+    },
+    {
+        "set": "Promo_Pack_2",
+        "type": "Finder_of_Paths_Unseen",
+        "name": "Paths Tied by Nature",
+        "status": "InDeck"
+    },
+    {
+        "set": "Promo_Pack_2",
+        "type": "Finder_of_Paths_Unseen",
+        "name": "Traveler's Boon",
+        "status": "InDeck"
+    },
+    {
+        "set": "Promo_Pack_2",
+        "type": "Finder_of_Paths_Unseen",
+        "name": "Ways of Shore and Heartland",
+        "status": "InDeck"
+    },
+    {
+        "set": "Horizons_of_Spirit_Island",
+        "type": "Devouring_Teeth_Lurk_Underfoot",
+        "name": "Ferocious Rampage",
+        "status": "InDeck"
+    },
+    {
+        "set": "Horizons_of_Spirit_Island",
+        "type": "Devouring_Teeth_Lurk_Underfoot",
+        "name": "Gift of Furious Might",
+        "status": "InDeck"
+    },
+    {
+        "set": "Horizons_of_Spirit_Island",
+        "type": "Devouring_Teeth_Lurk_Underfoot",
+        "name": "Herd Towards the Lurking Maw",
+        "status": "InDeck"
+    },
+    {
+        "set": "Horizons_of_Spirit_Island",
+        "type": "Devouring_Teeth_Lurk_Underfoot",
+        "name": "Mark Territory with Scars and Teeth",
+        "status": "InDeck"
+    },
+    {
+        "set": "Horizons_of_Spirit_Island",
+        "type": "Eyes_Watch_from_the_Trees",
+        "name": "Boon of Watchful Guarding",
+        "status": "InDeck"
+    },
+    {
+        "set": "Horizons_of_Spirit_Island",
+        "type": "Eyes_Watch_from_the_Trees",
+        "name": "Eerie Noises and Moving Trees",
+        "status": "InDeck"
+    },
+    {
+        "set": "Horizons_of_Spirit_Island",
+        "type": "Eyes_Watch_from_the_Trees",
+        "name": "Mysterious Abductions",
+        "status": "InDeck"
+    },
+    {
+        "set": "Horizons_of_Spirit_Island",
+        "type": "Eyes_Watch_from_the_Trees",
+        "name": "Whispered Guidance Through the Night",
+        "status": "InDeck"
+    },
+    {
+        "set": "Horizons_of_Spirit_Island",
+        "type": "Fathomless_Mud_of_the_Swamp",
+        "name": "Exaltation of Tangled Growth",
+        "status": "InDeck"
+    },
+    {
+        "set": "Horizons_of_Spirit_Island",
+        "type": "Fathomless_Mud_of_the_Swamp",
+        "name": "Foul Vapors and Fetid Muck",
+        "status": "InDeck"
+    },
+    {
+        "set": "Horizons_of_Spirit_Island",
+        "type": "Fathomless_Mud_of_the_Swamp",
+        "name": "Intractable Thickets and Thorns",
+        "status": "InDeck"
+    },
+    {
+        "set": "Horizons_of_Spirit_Island",
+        "type": "Fathomless_Mud_of_the_Swamp",
+        "name": "Open Shifting Waterways",
+        "status": "InDeck"
+    },
+    {
+        "set": "Horizons_of_Spirit_Island",
+        "type": "Rising_Heat_of_Stone_and_Sand",
+        "name": "Call on Herders for Aid",
+        "status": "InDeck"
+    },
+    {
+        "set": "Horizons_of_Spirit_Island",
+        "type": "Rising_Heat_of_Stone_and_Sand",
+        "name": "Gift of Searing Heat",
+        "status": "InDeck"
+    },
+    {
+        "set": "Horizons_of_Spirit_Island",
+        "type": "Rising_Heat_of_Stone_and_Sand",
+        "name": "Stinging Sandstorm",
+        "status": "InDeck"
+    },
+    {
+        "set": "Horizons_of_Spirit_Island",
+        "type": "Rising_Heat_of_Stone_and_Sand",
+        "name": "Sweltering Exhaustion",
+        "status": "InDeck"
+    },
+    {
+        "set": "Horizons_of_Spirit_Island",
+        "type": "Sun-Bright_Whirlwind",
+        "name": "Gift of the Sunlit Air",
+        "status": "InDeck"
+    },
+    {
+        "set": "Horizons_of_Spirit_Island",
+        "type": "Sun-Bright_Whirlwind",
+        "name": "Gift of Wind-Sped Steps",
+        "status": "InDeck"
+    },
+    {
+        "set": "Horizons_of_Spirit_Island",
+        "type": "Sun-Bright_Whirlwind",
+        "name": "Scatter to the Winds",
+        "status": "InDeck"
+    },
+    {
+        "set": "Horizons_of_Spirit_Island",
+        "type": "Sun-Bright_Whirlwind",
+        "name": "Tempest of Leaves and Branches",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Minor",
+        "name": "Roiling Bog and Snagging Thorn",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Major",
+        "name": "Bargain of Coursing Paths",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Major",
+        "name": "Bombard with Boulders and Stinging Seeds",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Major",
+        "name": "Exaltation of the Incandescent Sky",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Major",
+        "name": "Flocking Red-Talons",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Major",
+        "name": "Fragments of Yesteryear",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Major",
+        "name": "Inspire the Release of Stolen Lands",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Major",
+        "name": "Plague Ships Sail to Distant Ports",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Major",
+        "name": "Ravaged Undergrowth Slithers Back to Life",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Major",
+        "name": "Rumbling Earthquakes",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Major",
+        "name": "Solidify Echoes of Majesty Past",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Major",
+        "name": "Transformative Sacrifice",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Major",
+        "name": "Unearth a Beast of Wrathful Stone",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "A_Spread_of_Rampant_Green",
+        "name": "Belligerent and Aggressive Crops",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Breath_of_Darkness_Down_Your_Spine",
+        "name": "Emerge from the Dread Night Wind",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Breath_of_Darkness_Down_Your_Spine",
+        "name": "Reach from the Infinite Darkness",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Breath_of_Darkness_Down_Your_Spine",
+        "name": "Swallowed by the Endless Dark",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Breath_of_Darkness_Down_Your_Spine",
+        "name": "Terror of the Hunted",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Dances_Up_Earthquakes",
+        "name": "Exaltation of Echoed Steps",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Dances_Up_Earthquakes",
+        "name": "Gift of Seismic Energy",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Dances_Up_Earthquakes",
+        "name": "Inspire a Winding Dance",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Dances_Up_Earthquakes",
+        "name": "Radiating Tremors",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Dances_Up_Earthquakes",
+        "name": "Resounding Footfalls Sow Dismay",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Dances_Up_Earthquakes",
+        "name": "Rumblings Portend a Greater Quake",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Ember-Eyed_Behemoth",
+        "name": "Blazing Intimidation",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Ember-Eyed_Behemoth",
+        "name": "Exaltation of Grasping Roots",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Ember-Eyed_Behemoth",
+        "name": "Surging Lahar",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Ember-Eyed_Behemoth",
+        "name": "Terrifying Rampage",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Hearth-Vigil",
+        "name": "Call to Vigilance",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Hearth-Vigil",
+        "name": "Coordinated Raid",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Hearth-Vigil",
+        "name": "Favors of Story and Season",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Hearth-Vigil",
+        "name": "Surrounded by the Dahan",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Lightning's_Swift_Strike",
+        "name": "Smite the Land with Fulmination",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Relentless_Gaze_of_the_Sun",
+        "name": "Blinding Glare",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Relentless_Gaze_of_the_Sun",
+        "name": "Focus the Sun's Rays",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Relentless_Gaze_of_the_Sun",
+        "name": "Unbearable Gaze",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Relentless_Gaze_of_the_Sun",
+        "name": "Wither Bodies, Scar Stones",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Towering_Roots_of_the_Jungle",
+        "name": "Blooming of the Rocks and Trees",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Towering_Roots_of_the_Jungle",
+        "name": "Boon of Resilient Power",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Towering_Roots_of_the_Jungle",
+        "name": "Entwine the Fates of All",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Towering_Roots_of_the_Jungle",
+        "name": "Radiant and Hallowed Grove",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Wandering_Voice_Keens_Delirium",
+        "name": "Exhale Confusion and Delirium",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Wandering_Voice_Keens_Delirium",
+        "name": "Frightful Keening",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Wandering_Voice_Keens_Delirium",
+        "name": "Turmoil's Touch",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Wandering_Voice_Keens_Delirium",
+        "name": "Twist Perceptions",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Wounded_Waters_Bleeding",
+        "name": "Blood Water and Bloodlust",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Wounded_Waters_Bleeding",
+        "name": "Boon of Corrupted Blood",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Wounded_Waters_Bleeding",
+        "name": "Draw to the Water's Edge",
+        "status": "InDeck"
+    },
+    {
+        "set": "Nature_Incarnate",
+        "type": "Wounded_Waters_Bleeding",
+        "name": "Wrack with Pain and Grief",
+        "status": "InDeck"
+    }
+]
